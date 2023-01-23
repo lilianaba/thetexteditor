@@ -65,6 +65,9 @@ h1 {
     transform: rotate(360deg);
   }
 }
+.hidden{
+  display:none;
+}
 
 .app-update {
   display: none;
