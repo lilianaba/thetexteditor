@@ -1,4 +1,4 @@
-# 19 Progressive Web Applications (PWA): Text Editor
+# The Text Editor (PWA)
 
 ## Live Site
 [Live Site](https://radiant-cove-37273.herokuapp.com/)
